@@ -18,3 +18,4 @@
 
 ##
 
+![Snake animation](https//:github.com/BrunaLuisaCRS/BrunaLuisaCRS/blob/outpuut/github-contribtion-grid-snake.svg)
