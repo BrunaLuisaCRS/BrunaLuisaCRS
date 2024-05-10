@@ -12,9 +12,10 @@
   
   <img align="center" alt="Bru-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Bru-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bru-gif" scr"botar um gif aq">
    
  </div>
 
 ##
 ![snake gif](https://github.com/BrunaLuisaCRS/BrunaLuisaCRS/blob/output/github-contribution-grid-snake.svg)
+![teste1](https://github.com/BrunaLuisaCRS/BrunaLuisaCRS/assets/169390062/89e0ccdd-2c94-407e-bbba-39f2640e09bc)
+![teste1-ezgif com-resize (1)](https://github.com/BrunaLuisaCRS/BrunaLuisaCRS/assets/169390062/02939661-5689-44e6-a756-8eb672c75e9a)
