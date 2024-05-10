@@ -18,4 +18,5 @@
 
 ##
 
-![Snake animation](https//:github.com/BrunaLuisaCRS/BrunaLuisaCRS/blob/outpuut/github-contribtion-grid-snake.svg)
+![snake gif](https://github.com/BrunaLuisaCRS/BrunaLuisaCRS/blob/output/github-contribution-grid-snake.svg)
+
