@@ -17,5 +17,7 @@
 
 ##
 ![snake gif](https://github.com/BrunaLuisaCRS/BrunaLuisaCRS/blob/output/github-contribution-grid-snake.svg)
+
+##
 ![teste1](https://github.com/BrunaLuisaCRS/BrunaLuisaCRS/assets/169390062/89e0ccdd-2c94-407e-bbba-39f2640e09bc)
 ![teste1-ezgif com-resize (1)](https://github.com/BrunaLuisaCRS/BrunaLuisaCRS/assets/169390062/02939661-5689-44e6-a756-8eb672c75e9a)
