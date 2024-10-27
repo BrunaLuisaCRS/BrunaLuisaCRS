@@ -15,8 +15,6 @@
    
  </div>
 
-##
-![snake gif](https://github.com/BrunaLuisaCRS/BrunaLuisaCRS/blob/output/github-contribution-grid-snake.svg)
 
 ##
 ![teste1](https://github.com/BrunaLuisaCRS/BrunaLuisaCRS/assets/169390062/89e0ccdd-2c94-407e-bbba-39f2640e09bc)
