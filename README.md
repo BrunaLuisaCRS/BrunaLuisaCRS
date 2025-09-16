@@ -1,5 +1,5 @@
 <h1 align = "center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=IntelOneMono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Bruna+Luísa!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=IntelOneMono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Bruna+!;+Welcome+!" />
 </h1>
 
 <div align = "center">
@@ -13,21 +13,16 @@
 
 💬 Ask me about *C, Java, relational DB... or anything [here](https://github.com/BrunaLuisaCRS/BrunaLuisaCRS/issues)
 
-  
-  
-</div>
-  
-<a href="https://github.com/BrunaLuisaCRS/github-readme-stats" >
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BrunaLuisaCRS&show_icons=true&theme=tokyonight" />
-</a><br>
+<div align="center"> 
 
-<a href="https://github.com/BrunaLuisaCRS/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunaLuisaCRS&layout=compact&langs_count=8&card_width=120&theme=tokyonight" />
-</a> 
-</div>
+  <a href="https://www.linkedin.com/in/bruna-lu%C3%ADsa-806362231" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  
+  <a href="mailto:brunaluisacostareis@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
 
-
-<div align = "center" style="display: inline_block"><br>
 
 <h2>🛠Linguagens-Frameworks-Ferramentas🛠</h2>
   
