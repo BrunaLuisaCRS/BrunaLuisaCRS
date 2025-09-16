@@ -7,7 +7,7 @@
 <h2 align = "center"> A Computer Science studant at UFRRJ</h2>
 <div>
   
-   🔭 I’m currently working on **a Cientific Initiation**
+   🔭 I’m currently working on **undergraduate research**
  
  🌱 I’m currently learning **SQL, Javascript, PowerBI**
 
