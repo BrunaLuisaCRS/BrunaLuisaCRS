@@ -4,7 +4,7 @@
 
 <div align = "center">
 
-<h2 align = "center"> A Computer Science studant at UFRRJ</h2>
+<h2 align = "center"> A Computer Science student at UFRRJ</h2>
 <div>
   
    🔭 I’m currently working on **undergraduate research**
