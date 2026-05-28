@@ -1,36 +1,76 @@
-<h1 align = "center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+code&size=35&pause=1000&color=131DF7FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Bruna,+Welcome+👋!" />
-</h1>
 
-<div align = "center">
+<div align="center">
 
-<h2 align = "center"> A Computer Science student at UFRRJ</h2>
-<div>
-  
-   🔭 I’m currently working on **undergraduate research**
- 
- 🌱 I’m currently learning **SQL, Javascript, PowerBI**
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=42&duration=3000&pause=1000&color=FF71CE&center=true&vCenter=true&width=700&height=80&lines=Welcome+to+JacacoreOS+98;paint.exe+opened;system+loading..." />
 
-💬 Ask me about *C, Java, relational DB... or anything [here](https://github.com/BrunaLuisaCRS/BrunaLuisaCRS/issues)
+</div>
 
-<div align="center"> 
+---
 
-  <a href="https://www.linkedin.com/in/bruna-lu%C3%ADsa-806362231" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  
-  <a href="mailto:brunaluisacostareis@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+<table>
+<tr>
 
+<td width="50%">
 
-<h2>🛠Linguagens-Frameworks-Ferramentas🛠</h2>
-  
-  <img src="https://skillicons.dev/icons?i=python,c,lua,java,html,css" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" /><br>
-   
- </div>
+<img src="https://media.tenor.com/DimzPZMypFcAAAAd/lain.gif" width="100%">
 
+</td>
 
-![teste1](https://github.com/BrunaLuisaCRS/BrunaLuisaCRS/assets/169390062/89e0ccdd-2c94-407e-bbba-39f2640e09bc)
-![teste1-ezgif com-resize (1)](https://github.com/BrunaLuisaCRS/BrunaLuisaCRS/assets/169390062/02939661-5689-44e6-a756-8eb672c75e9a)
+<td width="50%">
+
+<h3>📁 about_me.txt</h3>
+
+```text
+┌─────────────────────────────┐
+│ 👩‍💻 Bruna                  │
+│ 🎓 CS Student @ UFRRJ       │
+│ 🔬 Undergraduate Research   │
+│ 💾 SQL • JavaScript         │
+│ 📊 PowerBI                  │
+└─────────────────────────────┘
+```
+
+```
+
+----------
+
+# internet explorer
+
+# 🖼 desktop_preview.bmp
+
+```txt
+[ SYSTEM STATUS ]
+█████████████████ 100%
+
+JacacoreOS loaded successfully
+
+```
+
+</td>
+</tr>
+</table>
+
+----------
+
+# 🎨 paint.exe
+
+```txt
+┌────────────────────────────────────┐
+│ skills.dll                         │
+├────────────────────────────────────┤
+│ Languages                          │
+│                                    │
+│ > C                               │
+│ > Java                            │
+│ > Python                          │
+│ > Lua                             │
+│ > HTML/CSS                        │
+│                                    │
+│ Tools                              │
+│                                    │
+│ > Git                             │
+│ > GitHub                          │
+│ > VSCode                          │
+└────────────────────────────────────┘
+
+```
