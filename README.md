@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=42&duration=3000&pause=1000&color=FF71CE&center=true&vCenter=true&width=700&height=80&lines=Welcome+to+JacacoreOS+98;paint.exe+opened;system+loading..." /> 
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=42&duration=3000&pause=1000&color=FF71CE&center=true&vCenter=true&width=700&height=80&lines=Welcome+to+JacacoreOS+98;system+loading...;paint.exe+opened" /> 
 
 
 </div>
