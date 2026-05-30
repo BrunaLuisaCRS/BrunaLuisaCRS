@@ -66,18 +66,3 @@
 </td>
 </tr>
 </table>
-
-<table>
-
-<tr>
-  
-```
-[ SYSTEM STATUS ]
-█████████████████ 100%
-
-JacacoreOS loaded successfully
-
-```
-
-</tr>
-</table>
