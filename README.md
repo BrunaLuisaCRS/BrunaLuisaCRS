@@ -8,7 +8,6 @@
 
 <img width="1000" height="53" alt="Captura de tela de 2026-05-28 03-04-06" src="https://github.com/user-attachments/assets/49e98e2d-c761-416b-9203-ff2d464ad1ce"  width="300">
 
-
 <table>
 <tr>
 
@@ -16,20 +15,32 @@
 <img src="https://media.tenor.com/DimzPZMypFcAAAAd/lain.gif" width="100%">
 
 
+```text
+┌─────────────────────────────────┐
+│ libs.txt                        │
+├─────────────────────────────────┤
+│ scikitli-learn                  │
+│ Pandas                          │
+│ Numpy                           │
+│ Matplotlib                      │
+└─────────────────────────────────┘
+```
+
 </td>
 
 <td width="50%">
 
 
 ```text
-┌─────────────────────────────────┐
-│ about_me.txt                    │
-├─────────────────────────────────┤
-│ 🎓 Estudante CCOMP -> UFRRJ     │
-│ 🔬 Iniciação Científica         │
-│ 📊 Excel • SQL • PowerBI        │
-│ 🔎 MySQL • Javascript • Docker  │
-└─────────────────────────────────┘
+┌──────────────────────────────────────┐
+│ about_me.txt                         │
+├──────────────────────────────────────┤
+│ 🎓 Estudante CCOMP -> UFRRJ          │
+│ 🔬 Iniciação Científica              │
+│ 📊 Excel • SQL • PowerBI             │
+│ 🔎 MySQL • Javascript • Docker       │
+│ 🖥️ Linux (Fedora & Ubuntu) • Windows │
+└──────────────────────────────────────┘
 ```
 
 ```txt
@@ -44,7 +55,7 @@
 │ > Lua                              │
 │ > HTML/CSS                         │
 │                                    │ 
-│ Ferramentas                        │
+│ Outras Ferramentas                 │
 │                                    │
 │ > Git                              │
 │ > GitHub                           │
