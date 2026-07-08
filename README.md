@@ -14,7 +14,12 @@
 <td width="50%">
 <img src="https://media.tenor.com/DimzPZMypFcAAAAd/lain.gif" width="100%">
 
-
+<a href="mailto:brunaluisacostareis@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Me mande um e-mail">
+</a>
+<a href="https://www.linkedin.com/in/brunaluisacrs/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu Linkedin">
+</a>
 
 
 </td>
@@ -55,16 +60,6 @@
 
 ```
 
-```text
-┌─────────────────────────────────┐
-│ libs.txt                        │
-├─────────────────────────────────┤
-│ scikitli-learn                  │
-│ Pandas                          │
-│ Numpy                           │
-│ Matplotlib                      │
-└─────────────────────────────────┘
-```
 
 </td>
 </tr>
