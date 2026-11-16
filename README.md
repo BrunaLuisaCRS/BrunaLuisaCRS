@@ -5,7 +5,7 @@
 ## <img src="https://win98icons.alexmeub.com/icons/png/directory_open_file_mydocs-0.png" width="22" height="22" align="center" alt="Sobre Mim" /> Sobre Mim
 
 - <img src="https://win98icons.alexmeub.com/icons/png/certificate-0.png" width="16" height="16" align="center" alt="Graduação" /> Graduanda em **Ciência da Computação** pela **Universidade Federal Rural do Rio de Janeiro (UFRRJ)**.
-- <img src="https://win98icons.alexmeub.com/icons/png/chm-0.png" width="16" height="16" align="center" alt="Iniciação Científica" /> Atuando com **Iniciação Científica**, unindo pesquisa acadêmica a desenvolvimento prático de software.
+- <img src="https://win98icons.alexmeub.com/icons/png/chm-0.png" width="16" height="16" align="center" alt="Iniciação Científica" /> **Voluntária de Iniciação Científica**, unindo pesquisa acadêmica a desenvolvimento prático de software.
 - <img src="https://win98icons.alexmeub.com/icons/png/chart1-0.png" width="16" height="16" align="center" alt="Dados" /> Interesse e foco em **Engenharia de Software**, **Bancos de Dados** e **Análise de Dados**.
 - <img src="https://win98icons.alexmeub.com/icons/png/windows-4.png" width="16" height="16" align="center" alt="Sistemas Operacionais" /> Usuária ativa de ambientes **Linux (Fedora, Ubuntu & Kali)** e **Windows**.
 - <img src="https://win98icons.alexmeub.com/icons/png/tip.png" width="16" height="16" align="center" alt="Objetivo" /> Sempre em busca de aprender novas tecnologias e resolver problemas reais.
